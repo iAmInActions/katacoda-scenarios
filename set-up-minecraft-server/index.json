@@ -2,7 +2,7 @@
   "title": "Setting up a Minecraft Server",
   "description": "This Scenario teaches you how to set up a Paper 1.12.2 Minecraft Server.",
   "difficulty": "Intermediate",
-  "time": "20 Minutes",
+  "time": "45 Minutes",
   "details": {
     "steps": [
       {
@@ -34,7 +34,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu:2004"
